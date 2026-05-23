@@ -1,7 +1,7 @@
 {
-  "buildCommand": "npm run build:h5",
+  "installCommand": "npm install --prefer-offline",
+  "buildCommand": "npx --no-install uni build -p h5",
   "outputDirectory": "dist/build/h5",
-  "installCommand": "npm install",
   "framework": null,
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
