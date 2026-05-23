@@ -1,0 +1,38 @@
+/**
+ * uni.scss - 全局 SCSS 变量
+ * 供所有 .vue 文件的 <style lang="scss"> 使用
+ */
+
+// 主色调（对应 PRD 设计）
+$color-primary: #D4AF37;    // 金色
+$color-primary-light: #F5D76E;
+$color-bg-dark: #1A1036;    // 深紫背景
+$color-bg-mid: #2D1B69;     // 中紫
+$color-text: #F5F5F5;       // 月光白
+$color-text-muted: #B8A9E8; // 淡紫
+$color-accent-blue: #2D3A8C;
+
+// 字体大小
+$font-xs: 20rpx;
+$font-sm: 24rpx;
+$font-md: 28rpx;
+$font-lg: 32rpx;
+$font-xl: 40rpx;
+$font-xxl: 48rpx;
+
+// 圆角
+$radius-sm: 8rpx;
+$radius-md: 16rpx;
+$radius-lg: 24rpx;
+$radius-full: 48rpx;
+
+// 间距
+$space-xs: 8rpx;
+$space-sm: 16rpx;
+$space-md: 24rpx;
+$space-lg: 40rpx;
+$space-xl: 60rpx;
+
+// 透明度
+$glass-bg: rgba(255, 255, 255, 0.06);
+$glass-border: rgba(212, 175, 55, 0.2);

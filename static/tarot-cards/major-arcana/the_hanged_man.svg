@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 350">
+  <defs>
+    <linearGradient id="bg_the_hanged_man" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f0f1a;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="glow_the_hanged_man" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#3498db;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+  <!-- Card Background -->
+  <rect width="200" height="350" rx="15" fill="url(#bg_the_hanged_man)"/>
+  <rect width="200" height="350" rx="15" fill="url(#glow_the_hanged_man)"/>
+  <!-- Border -->
+  <rect x="5" y="5" width="190" height="340" rx="12" fill="none" stroke="#3498db" stroke-width="2"/>
+  <!-- Card Number (top left) -->
+  <text x="15" y="30" font-family="Georgia, serif" font-size="18" fill="#3498db">12</text>
+  <!-- Card Name (bottom) -->
+  <text x="100" y="335" font-family="Georgia, serif" font-size="14" fill="white" text-anchor="middle">倒吊人</text>
+  <!-- Roman Numeral (top right) -->
+  <text x="185" y="30" font-family="Georgia, serif" font-size="14" fill="#3498db" text-anchor="end">XII</text>
+  <!-- Center Symbol Area -->
+  <g transform="translate(100, 175)">
+    <circle r="55" fill="none" stroke="#3498db" stroke-width="1" opacity="0.5"/>
+    <circle r="45" fill="none" stroke="#3498db" stroke-width="0.5" opacity="0.3"/>
+    <text x="0" y="5" font-family="Georgia, serif" font-size="40" fill="#3498db" text-anchor="middle">⊥</text>
+  </g>
+  <!-- Decorative elements -->
+  <circle cx="30" cy="60" r="2" fill="#3498db" opacity="0.5"/>
+  <circle cx="170" cy="80" r="1.5" fill="#3498db" opacity="0.4"/>
+  <circle cx="40" cy="280" r="1" fill="#3498db" opacity="0.3"/>
+  <circle cx="160" cy="250" r="1.5" fill="#3498db" opacity="0.4"/>
+  <!-- Card ID at bottom left -->
+  <text x="15" y="320" font-family="Arial, sans-serif" font-size="8" fill="#3498db" opacity="0.5">the_hanged_man</text>
+</svg>

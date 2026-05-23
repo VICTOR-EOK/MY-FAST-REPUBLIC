@@ -1,0 +1,68 @@
+[
+  {
+    "id": "three_cards",
+    "name": "三张牌阵",
+    "description": "适用于大多数问题，快速获取过去、现在、未来的指引",
+    "cardCount": 3,
+    "positions": [
+      {"name": "过去", "meaning": "影响当前情况的过去因素"},
+      {"name": "现在", "meaning": "当前的核心状况与能量"},
+      {"name": "未来", "meaning": "可能的发展方向"}
+    ]
+  },
+  {
+    "id": "sacred_triangle",
+    "name": "圣三角",
+    "description": "深入探讨问题根源，揭示潜意识动机",
+    "cardCount": 3,
+    "positions": [
+      {"name": "现状", "meaning": "当前实际情况"},
+      {"name": "挑战", "meaning": "面临的主要障碍或挑战"},
+      {"name": "建议", "meaning": "塔罗给予的建议方向"}
+    ]
+  },
+  {
+    "id": "five_cards",
+    "name": "五张牌阵",
+    "description": "全面深入分析，涵盖问题各个维度",
+    "cardCount": 5,
+    "positions": [
+      {"name": "中心", "meaning": "问题的核心本质"},
+      {"name": "过去", "meaning": "影响问题的过去事件"},
+      {"name": "现在", "meaning": "当前状况"},
+      {"name": "未来", "meaning": "可能的发展"},
+      {"name": "结果", "meaning": "最终可能的结果"}
+    ]
+  },
+  {
+    "id": "celtic_cross",
+    "name": "凯尔特十字",
+    "description": "经典全面牌阵，深度解读复杂问题（10张牌）",
+    "cardCount": 10,
+    "positions": [
+      {"name": "现状", "meaning": "当前的核心状况"},
+      {"name": "挑战", "meaning": "面临的主要挑战"},
+      {"name": "过去", "meaning": "过去的起因"},
+      {"name": "未来", "meaning": "近期发展"},
+      {"name": "目标", "meaning": "内心真正的期望"},
+      {"name": "近景", "meaning": "短期内会发生的事"},
+      {"name": "自我", "meaning": "你对情况的看法"},
+      {"name": "环境", "meaning": "周围人的影响"},
+      {"name": "希望/恐惧", "meaning": "内心的希望或恐惧"},
+      {"name": "结果", "meaning": "最终可能的结果"}
+    ]
+  },
+  {
+    "id": "love_spread",
+    "name": "感情牌阵",
+    "description": "专门针对感情问题的牌阵",
+    "cardCount": 5,
+    "positions": [
+      {"name": "你", "meaning": "你在感情中的状态"},
+      {"name": "对方", "meaning": "对方在感情中的状态"},
+      {"name": "关系", "meaning": "两人关系的现状"},
+      {"name": "障碍", "meaning": "感情中的障碍"},
+      {"name": "发展", "meaning": "感情的发展方向"}
+    ]
+  }
+]

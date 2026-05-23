@@ -1,0 +1,1696 @@
+[
+  {
+    "id": "the_fool",
+    "name_cn": "愚人",
+    "name_en": "The Fool",
+    "number": 0,
+    "arcana": "major",
+    "keywords": [
+      "冒险",
+      "新开始",
+      "自由"
+    ],
+    "meanings": {
+      "upright": "新机会、冒险精神、自然自发的行动、跟随内心",
+      "reversed": "鲁莽、缺乏责任感、延误出发、不计后果"
+    },
+    "element": "风",
+    "theme": "新开始",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar00.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_fool.jpg",
+    "image": "./static/tarot-cards/major-arcana/0m.jpg"
+  },
+  {
+    "id": "the_magician",
+    "name_cn": "魔术师",
+    "name_en": "The Magician",
+    "number": 1,
+    "arcana": "major",
+    "keywords": [
+      "创造力",
+      "意志力",
+      "技能"
+    ],
+    "meanings": {
+      "upright": "创造力、技能充沛、掌控局势、心想事成",
+      "reversed": "操控、欺骗、才能未被发挥、缺乏方向"
+    },
+    "element": "水银",
+    "theme": "创造",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar01.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_magician.jpg",
+    "image": "./static/tarot-cards/major-arcana/1m.jpg"
+  },
+  {
+    "id": "the_high_priestess",
+    "name_cn": "女祭司",
+    "name_en": "The High Priestess",
+    "number": 2,
+    "arcana": "major",
+    "keywords": [
+      "直觉",
+      "潜意识",
+      "神秘"
+    ],
+    "meanings": {
+      "upright": "直觉敏锐、内在智慧、静待时机、灵性觉醒",
+      "reversed": "忽视直觉、表面化、秘密被揭露、内心混乱"
+    },
+    "element": "月",
+    "theme": "直觉",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar02.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_high_priestess.jpg",
+    "image": "./static/tarot-cards/major-arcana/2m.jpg"
+  },
+  {
+    "id": "the_empress",
+    "name_cn": "女皇",
+    "name_en": "The Empress",
+    "number": 3,
+    "arcana": "major",
+    "keywords": [
+      "丰盛",
+      "滋养",
+      "母性"
+    ],
+    "meanings": {
+      "upright": "丰盛收获、创造力旺盛、母性关怀、感官享受",
+      "reversed": "过度依赖、创意枯竭、忽视自我需求"
+    },
+    "element": "金星",
+    "theme": "丰盛",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar03.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_empress.jpg",
+    "image": "./static/tarot-cards/major-arcana/3m.jpg"
+  },
+  {
+    "id": "the_emperor",
+    "name_cn": "皇帝",
+    "name_en": "The Emperor",
+    "number": 4,
+    "arcana": "major",
+    "keywords": [
+      "权威",
+      "秩序",
+      "稳定"
+    ],
+    "meanings": {
+      "upright": "领导力、结构稳定、权威掌控、父性力量",
+      "reversed": "独裁、僵化、控制欲过强、缺乏纪律"
+    },
+    "element": "白羊",
+    "theme": "权威",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar04.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_emperor.jpg",
+    "image": "./static/tarot-cards/major-arcana/4m.jpg"
+  },
+  {
+    "id": "the_hierophant",
+    "name_cn": "教皇",
+    "name_en": "The Hierophant",
+    "number": 5,
+    "arcana": "major",
+    "keywords": [
+      "传统",
+      "信仰",
+      "指导"
+    ],
+    "meanings": {
+      "upright": "传统价值、精神导师、仪式感、集体智慧",
+      "reversed": "打破常规、反叛传统、自由思考"
+    },
+    "element": "金牛",
+    "theme": "信仰",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar05.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_hierophant.jpg",
+    "image": "./static/tarot-cards/major-arcana/5m.jpg"
+  },
+  {
+    "id": "the_lovers",
+    "name_cn": "恋人",
+    "name_en": "The Lovers",
+    "number": 6,
+    "arcana": "major",
+    "keywords": [
+      "爱情",
+      "选择",
+      "和谐"
+    ],
+    "meanings": {
+      "upright": "真挚爱情、重要抉择、和谐关系、价值观统一",
+      "reversed": "关系失衡、选择困难、价值观冲突"
+    },
+    "element": "双子",
+    "theme": "爱情",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar06.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_lovers.jpg",
+    "image": "./static/tarot-cards/major-arcana/6m.jpg"
+  },
+  {
+    "id": "the_chariot",
+    "name_cn": "战车",
+    "name_en": "The Chariot",
+    "number": 7,
+    "arcana": "major",
+    "keywords": [
+      "胜利",
+      "意志",
+      "前进"
+    ],
+    "meanings": {
+      "upright": "克服困难、坚定意志、胜利前进、掌控方向",
+      "reversed": "方向迷失、失去控制、内心冲突"
+    },
+    "element": "巨蟹",
+    "theme": "胜利",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar07.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_chariot.jpg",
+    "image": "./static/tarot-cards/major-arcana/7m.jpg"
+  },
+  {
+    "id": "strength",
+    "name_cn": "力量",
+    "name_en": "Strength",
+    "number": 8,
+    "arcana": "major",
+    "keywords": [
+      "勇气",
+      "耐心",
+      "内在力量"
+    ],
+    "meanings": {
+      "upright": "内在力量、温柔坚定、勇气面对、耐心克制",
+      "reversed": "自我怀疑、软弱无力、缺乏自信"
+    },
+    "element": "狮子",
+    "theme": "力量",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar08.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/strength.jpg",
+    "image": "./static/tarot-cards/major-arcana/8m.jpg"
+  },
+  {
+    "id": "the_hermit",
+    "name_cn": "隐者",
+    "name_en": "The Hermit",
+    "number": 9,
+    "arcana": "major",
+    "keywords": [
+      "独处",
+      "内省",
+      "智慧"
+    ],
+    "meanings": {
+      "upright": "内省反思、独处求知、精神引导、内在之光",
+      "reversed": "过度孤立、逃避现实、拒绝指引"
+    },
+    "element": "处女",
+    "theme": "内省",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar09.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_hermit.jpg",
+    "image": "./static/tarot-cards/major-arcana/9m.jpg"
+  },
+  {
+    "id": "wheel_of_fortune",
+    "name_cn": "命运之轮",
+    "name_en": "Wheel of Fortune",
+    "number": 10,
+    "arcana": "major",
+    "keywords": [
+      "转变",
+      "机遇",
+      "命运"
+    ],
+    "meanings": {
+      "upright": "命运转折、好运降临、循环变化、抓住机遇",
+      "reversed": "厄运、抗拒改变、机会流失"
+    },
+    "element": "木星",
+    "theme": "转变",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar10.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/wheel_of_fortune.jpg",
+    "image": "./static/tarot-cards/major-arcana/10m.jpg"
+  },
+  {
+    "id": "justice",
+    "name_cn": "正义",
+    "name_en": "Justice",
+    "number": 11,
+    "arcana": "major",
+    "keywords": [
+      "公正",
+      "因果",
+      "真相"
+    ],
+    "meanings": {
+      "upright": "公正公平、因果报应、真相显现、理性判断",
+      "reversed": "不公正、偏见、逃避责任、失衡"
+    },
+    "element": "天秤",
+    "theme": "公正",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar11.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/justice.jpg",
+    "image": "./static/tarot-cards/major-arcana/11m.jpg"
+  },
+  {
+    "id": "the_hanged_man",
+    "name_cn": "倒吊人",
+    "name_en": "The Hanged Man",
+    "number": 12,
+    "arcana": "major",
+    "keywords": [
+      "牺牲",
+      "等待",
+      "新视角"
+    ],
+    "meanings": {
+      "upright": "换位思考、主动牺牲、暂停等待、新视角",
+      "reversed": "拖延、无谓牺牲、固执己见"
+    },
+    "element": "水",
+    "theme": "等待",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar12.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_hanged_man.jpg",
+    "image": "./static/tarot-cards/major-arcana/12m.jpg"
+  },
+  {
+    "id": "death",
+    "name_cn": "死神",
+    "name_en": "Death",
+    "number": 13,
+    "arcana": "major",
+    "keywords": [
+      "结束",
+      "转化",
+      "重生"
+    ],
+    "meanings": {
+      "upright": "旧事结束、深刻转变、破茧重生、放下过去",
+      "reversed": "抗拒改变、恐惧未知、停滞不前"
+    },
+    "element": "天蝎",
+    "theme": "转化",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar13.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/death.jpg",
+    "image": "./static/tarot-cards/major-arcana/13m.jpg"
+  },
+  {
+    "id": "temperance",
+    "name_cn": "节制",
+    "name_en": "Temperance",
+    "number": 14,
+    "arcana": "major",
+    "keywords": [
+      "平衡",
+      "调和",
+      "耐心"
+    ],
+    "meanings": {
+      "upright": "中庸之道、内外调和、耐心等待、和谐融合",
+      "reversed": "过度放纵、失衡、缺乏耐心、极端"
+    },
+    "element": "射手",
+    "theme": "平衡",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar14.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/temperance.jpg",
+    "image": "./static/tarot-cards/major-arcana/14m.jpg"
+  },
+  {
+    "id": "the_devil",
+    "name_cn": "恶魔",
+    "name_en": "The Devil",
+    "number": 15,
+    "arcana": "major",
+    "keywords": [
+      "束缚",
+      "欲望",
+      "阴影"
+    ],
+    "meanings": {
+      "upright": "物质束缚、欲望诱惑、上瘾依赖、面对阴影",
+      "reversed": "挣脱束缚、重获自由、觉醒解脱"
+    },
+    "element": "摩羯",
+    "theme": "束缚",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar15.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_devil.jpg",
+    "image": "./static/tarot-cards/major-arcana/15m.jpg"
+  },
+  {
+    "id": "the_tower",
+    "name_cn": "高塔",
+    "name_en": "The Tower",
+    "number": 16,
+    "arcana": "major",
+    "keywords": [
+      "突变",
+      "毁灭",
+      "启示"
+    ],
+    "meanings": {
+      "upright": "突然巨变、旧结构崩塌、震撼启示、浴火重生",
+      "reversed": "延缓灾难、抗拒改变、恐惧变革"
+    },
+    "element": "火星",
+    "theme": "突变",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar16.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_tower.jpg",
+    "image": "./static/tarot-cards/major-arcana/16m.jpg"
+  },
+  {
+    "id": "the_star",
+    "name_cn": "星星",
+    "name_en": "The Star",
+    "number": 17,
+    "arcana": "major",
+    "keywords": [
+      "希望",
+      "灵感",
+      "治愈"
+    ],
+    "meanings": {
+      "upright": "希望之光、灵感涌现、心灵治愈、美好愿景",
+      "reversed": "失去希望、信心不足、灵感枯竭"
+    },
+    "element": "水瓶",
+    "theme": "希望",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar17.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_star.jpg",
+    "image": "./static/tarot-cards/major-arcana/17m.jpg"
+  },
+  {
+    "id": "the_moon",
+    "name_cn": "月亮",
+    "name_en": "The Moon",
+    "number": 18,
+    "arcana": "major",
+    "keywords": [
+      "幻象",
+      "恐惧",
+      "潜意识"
+    ],
+    "meanings": {
+      "upright": "潜意识涌动、幻象迷雾、直觉指引、内心恐惧",
+      "reversed": "走出迷雾、真相显现、克服恐惧"
+    },
+    "element": "双鱼",
+    "theme": "幻象",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar18.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_moon.jpg",
+    "image": "./static/tarot-cards/major-arcana/18m.jpg"
+  },
+  {
+    "id": "the_sun",
+    "name_cn": "太阳",
+    "name_en": "The Sun",
+    "number": 19,
+    "arcana": "major",
+    "keywords": [
+      "喜悦",
+      "成功",
+      "活力"
+    ],
+    "meanings": {
+      "upright": "阳光普照、成功喜悦、活力充沛、乐观积极",
+      "reversed": "短暂低落、过度乐观、内心阴霾"
+    },
+    "element": "太阳",
+    "theme": "喜悦",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar19.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_sun.jpg",
+    "image": "./static/tarot-cards/major-arcana/19m.jpg"
+  },
+  {
+    "id": "judgement",
+    "name_cn": "审判",
+    "name_en": "Judgement",
+    "number": 20,
+    "arcana": "major",
+    "keywords": [
+      "觉醒",
+      "召唤",
+      "重生"
+    ],
+    "meanings": {
+      "upright": "灵魂觉醒、使命召唤、自我审视、重生蜕变",
+      "reversed": "自我怀疑、拒绝召唤、无法释怀"
+    },
+    "element": "冥王星",
+    "theme": "觉醒",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar20.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/judgement.jpg",
+    "image": "./static/tarot-cards/major-arcana/20m.jpg"
+  },
+  {
+    "id": "the_world",
+    "name_cn": "世界",
+    "name_en": "The World",
+    "number": 21,
+    "arcana": "major",
+    "keywords": [
+      "完成",
+      "圆满",
+      "整合"
+    ],
+    "meanings": {
+      "upright": "圆满完成、整合一切、旅途终点、新的起点",
+      "reversed": "未完成、缺乏收尾、半途而废"
+    },
+    "element": "土星",
+    "theme": "圆满",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/ar21.jpg",
+    "image_local": "/static/tarot-cards/major-arcana/the_world.jpg",
+    "image": "./static/tarot-cards/major-arcana/21m.jpg"
+  },
+  {
+    "id": "wands_ace",
+    "name_cn": "权杖Ace",
+    "name_en": "Ace of Wands",
+    "number": 1,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "激情",
+      "灵感",
+      "新项目"
+    ],
+    "meanings": {
+      "upright": "激情点燃、灵感迸发、新项目启动、创造力涌动",
+      "reversed": "缺乏方向、创意受阻、拖延"
+    },
+    "element": "火",
+    "theme": "激情",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn01.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_ace.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/1w.jpg"
+  },
+  {
+    "id": "wands_two",
+    "name_cn": "权杖二",
+    "name_en": "Two of Wands",
+    "number": 2,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "规划",
+      "抉择",
+      "远见"
+    ],
+    "meanings": {
+      "upright": "远见规划、未来抉择、蓄势待发、掌控全局",
+      "reversed": "犹豫不决、缺乏规划、恐惧未知"
+    },
+    "element": "火",
+    "theme": "规划",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn02.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_two.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/2w.jpg"
+  },
+  {
+    "id": "wands_three",
+    "name_cn": "权杖三",
+    "name_en": "Three of Wands",
+    "number": 3,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "展望",
+      "合作",
+      "进展"
+    ],
+    "meanings": {
+      "upright": "远眺未来、商业合作、进展顺利、视野开阔",
+      "reversed": "计划受挫、缺乏远见、合作不顺"
+    },
+    "element": "火",
+    "theme": "展望",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn03.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_three.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/3w.jpg"
+  },
+  {
+    "id": "wands_four",
+    "name_cn": "权杖四",
+    "name_en": "Four of Wands",
+    "number": 4,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "庆祝",
+      "安定",
+      "家园"
+    ],
+    "meanings": {
+      "upright": "欢庆喜悦、安定美满、家庭和睦、里程碑",
+      "reversed": "安定受阻、家庭不和、缺乏归属"
+    },
+    "element": "火",
+    "theme": "庆祝",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn04.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_four.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/4w.jpg"
+  },
+  {
+    "id": "wands_five",
+    "name_cn": "权杖五",
+    "name_en": "Five of Wands",
+    "number": 5,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "冲突",
+      "竞争",
+      "挑战"
+    ],
+    "meanings": {
+      "upright": "激烈竞争、意见冲突、面临挑战、磨练成长",
+      "reversed": "避免冲突、和平共处、内耗减少"
+    },
+    "element": "火",
+    "theme": "冲突",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn05.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_five.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/5w.jpg"
+  },
+  {
+    "id": "wands_six",
+    "name_cn": "权杖六",
+    "name_en": "Six of Wands",
+    "number": 6,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "胜利",
+      "认可",
+      "荣耀"
+    ],
+    "meanings": {
+      "upright": "胜利凯旋、获得认可、荣耀时刻、自信满满",
+      "reversed": "失败挫折、不被认可、自信不足"
+    },
+    "element": "火",
+    "theme": "胜利",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn06.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_six.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/6w.jpg"
+  },
+  {
+    "id": "wands_seven",
+    "name_cn": "权杖七",
+    "name_en": "Seven of Wands",
+    "number": 7,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "防御",
+      "坚持",
+      "立场"
+    ],
+    "meanings": {
+      "upright": "坚守立场、积极防御、不畏挑战、独立抗争",
+      "reversed": "放弃立场、被压倒、缺乏勇气"
+    },
+    "element": "火",
+    "theme": "坚持",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn07.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_seven.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/7w.jpg"
+  },
+  {
+    "id": "wands_eight",
+    "name_cn": "权杖八",
+    "name_en": "Eight of Wands",
+    "number": 8,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "迅速",
+      "行动",
+      "变化"
+    ],
+    "meanings": {
+      "upright": "快速推进、信息飞速、行动力强、变化来临",
+      "reversed": "延迟阻碍、行动迟缓、计划延误"
+    },
+    "element": "火",
+    "theme": "迅速",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn08.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_eight.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/8w.jpg"
+  },
+  {
+    "id": "wands_nine",
+    "name_cn": "权杖九",
+    "name_en": "Nine of Wands",
+    "number": 9,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "坚韧",
+      "警惕",
+      "坚持"
+    ],
+    "meanings": {
+      "upright": "坚韧不拔、保持警惕、坚持到底、最后防线",
+      "reversed": "精疲力竭、防御过度、意志崩溃"
+    },
+    "element": "火",
+    "theme": "坚韧",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn09.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_nine.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/9w.jpg"
+  },
+  {
+    "id": "wands_ten",
+    "name_cn": "权杖十",
+    "name_en": "Ten of Wands",
+    "number": 10,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "重担",
+      "压力",
+      "承担"
+    ],
+    "meanings": {
+      "upright": "负重前行、压力沉重、责任重大、咬牙坚持",
+      "reversed": "释放负担、学会放手、不堪重负"
+    },
+    "element": "火",
+    "theme": "重担",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn10.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_ten.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/10w.jpg"
+  },
+  {
+    "id": "wands_page",
+    "name_cn": "权杖侍从",
+    "name_en": "Page of Wands",
+    "number": 11,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "热情",
+      "探索",
+      "消息"
+    ],
+    "meanings": {
+      "upright": "热情探索、新消息传来、灵感闪现、勇于尝试",
+      "reversed": "缺乏热情、消息延迟、三分钟热度"
+    },
+    "element": "火",
+    "theme": "探索",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn11.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_page.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/pw.jpg"
+  },
+  {
+    "id": "wands_knight",
+    "name_cn": "权杖骑士",
+    "name_en": "Knight of Wands",
+    "number": 12,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "冲动",
+      "冒险",
+      "行动"
+    ],
+    "meanings": {
+      "upright": "冲动冒险、行动迅速、激情四射、勇往直前",
+      "reversed": "鲁莽行事、半途而废、急躁冒进"
+    },
+    "element": "火",
+    "theme": "冒险",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn12.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_knight.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/nw.jpg"
+  },
+  {
+    "id": "wands_queen",
+    "name_cn": "权杖王后",
+    "name_en": "Queen of Wands",
+    "number": 13,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "自信",
+      "魅力",
+      "热情"
+    ],
+    "meanings": {
+      "upright": "自信魅力、热情洋溢、独立果断、吸引力强",
+      "reversed": "嫉妒自私、缺乏自信、独断专行"
+    },
+    "element": "火",
+    "theme": "自信",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn13.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_queen.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/qw.jpg"
+  },
+  {
+    "id": "wands_king",
+    "name_cn": "权杖国王",
+    "name_en": "King of Wands",
+    "number": 14,
+    "arcana": "minor",
+    "suit": "wands",
+    "keywords": [
+      "领导",
+      "远见",
+      "魄力"
+    ],
+    "meanings": {
+      "upright": "领袖风范、远见卓识、魄力十足、驾驭全局",
+      "reversed": "专制独裁、目中无人、滥用权力"
+    },
+    "element": "火",
+    "theme": "领导",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/wn14.jpg",
+    "image_local": "/static/tarot-cards/wands/wands_king.jpg",
+    "image": "./static/tarot-cards/minor-arcana/wands/kw.jpg"
+  },
+  {
+    "id": "cups_ace",
+    "name_cn": "圣杯Ace",
+    "name_en": "Ace of Cups",
+    "number": 1,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "爱情",
+      "情感",
+      "新感情"
+    ],
+    "meanings": {
+      "upright": "情感充沛、新恋情萌芽、心灵开启、爱的礼物",
+      "reversed": "情感封闭、失恋痛苦、压抑感受"
+    },
+    "element": "水",
+    "theme": "爱情",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu01.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_ace.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/1c.jpg"
+  },
+  {
+    "id": "cups_two",
+    "name_cn": "圣杯二",
+    "name_en": "Two of Cups",
+    "number": 2,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "连接",
+      "伴侣",
+      "默契"
+    ],
+    "meanings": {
+      "upright": "心灵契合、亲密关系、相互吸引、合作共赢",
+      "reversed": "关系破裂、缺乏默契、情感失衡"
+    },
+    "element": "水",
+    "theme": "连接",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu02.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_two.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/2c.jpg"
+  },
+  {
+    "id": "cups_three",
+    "name_cn": "圣杯三",
+    "name_en": "Three of Cups",
+    "number": 3,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "欢聚",
+      "友谊",
+      "庆祝"
+    ],
+    "meanings": {
+      "upright": "欢聚庆祝、友谊深厚、社交愉快、分享喜悦",
+      "reversed": "社交过度、友谊裂痕、孤独感"
+    },
+    "element": "水",
+    "theme": "欢聚",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu03.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_three.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/3c.jpg"
+  },
+  {
+    "id": "cups_four",
+    "name_cn": "圣杯四",
+    "name_en": "Four of Cups",
+    "number": 4,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "不满",
+      "冷漠",
+      "忽视"
+    ],
+    "meanings": {
+      "upright": "心生不满、漠然冷漠、忽视机会、冥想内省",
+      "reversed": "走出冷漠、重新关注、接受新机会"
+    },
+    "element": "水",
+    "theme": "不满",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu04.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_four.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/4c.jpg"
+  },
+  {
+    "id": "cups_five",
+    "name_cn": "圣杯五",
+    "name_en": "Five of Cups",
+    "number": 5,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "失落",
+      "悲伤",
+      "遗憾"
+    ],
+    "meanings": {
+      "upright": "悲伤失落、遗憾悔恨、关注失去、哀悼过去",
+      "reversed": "走出悲伤、接受现实、看到希望"
+    },
+    "element": "水",
+    "theme": "失落",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu05.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_five.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/5c.jpg"
+  },
+  {
+    "id": "cups_six",
+    "name_cn": "圣杯六",
+    "name_en": "Six of Cups",
+    "number": 6,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "怀旧",
+      "童真",
+      "回忆"
+    ],
+    "meanings": {
+      "upright": "美好回忆、童真回归、怀旧情感、纯真之爱",
+      "reversed": "沉溺过去、逃避现实、过度依恋"
+    },
+    "element": "水",
+    "theme": "怀旧",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu06.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_six.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/6c.jpg"
+  },
+  {
+    "id": "cups_seven",
+    "name_cn": "圣杯七",
+    "name_en": "Seven of Cups",
+    "number": 7,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "幻想",
+      "选择",
+      "迷惑"
+    ],
+    "meanings": {
+      "upright": "幻想纷呈、选择众多、白日做梦、美好愿景",
+      "reversed": "回归现实、做出选择、打破幻象"
+    },
+    "element": "水",
+    "theme": "幻想",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu07.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_seven.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/7c.jpg"
+  },
+  {
+    "id": "cups_eight",
+    "name_cn": "圣杯八",
+    "name_en": "Eight of Cups",
+    "number": 8,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "离开",
+      "寻索",
+      "放弃"
+    ],
+    "meanings": {
+      "upright": "主动离开、内心寻索、放弃已知、追求更高",
+      "reversed": "犹豫不决、害怕改变、原地徘徊"
+    },
+    "element": "水",
+    "theme": "寻索",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu08.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_eight.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/8c.jpg"
+  },
+  {
+    "id": "cups_nine",
+    "name_cn": "圣杯九",
+    "name_en": "Nine of Cups",
+    "number": 9,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "满足",
+      "愿望成真",
+      "享受"
+    ],
+    "meanings": {
+      "upright": "心愿达成、满足幸福、享受生活、情感圆满",
+      "reversed": "贪婪不满、愿望落空、纵欲过度"
+    },
+    "element": "水",
+    "theme": "满足",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu09.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_nine.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/9c.jpg"
+  },
+  {
+    "id": "cups_ten",
+    "name_cn": "圣杯十",
+    "name_en": "Ten of Cups",
+    "number": 10,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "幸福",
+      "家庭",
+      "圆满"
+    ],
+    "meanings": {
+      "upright": "家庭幸福、情感圆满、和谐美满、理想生活",
+      "reversed": "家庭矛盾、幸福破碎、关系失和"
+    },
+    "element": "水",
+    "theme": "幸福",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu10.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_ten.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/10c.jpg"
+  },
+  {
+    "id": "cups_page",
+    "name_cn": "圣杯侍从",
+    "name_en": "Page of Cups",
+    "number": 11,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "敏感",
+      "直觉",
+      "新情感"
+    ],
+    "meanings": {
+      "upright": "敏感细腻、直觉引导、新情感萌芽、创意灵感",
+      "reversed": "情绪化、不成熟、逃避感受"
+    },
+    "element": "水",
+    "theme": "敏感",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu11.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_page.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/pc.jpg"
+  },
+  {
+    "id": "cups_knight",
+    "name_cn": "圣杯骑士",
+    "name_en": "Knight of Cups",
+    "number": 12,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "浪漫",
+      "邀请",
+      "追求"
+    ],
+    "meanings": {
+      "upright": "浪漫追求、情感邀请、理想主义、温柔体贴",
+      "reversed": "情感不稳、不切实际、花心善变"
+    },
+    "element": "水",
+    "theme": "浪漫",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu12.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_knight.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/nc.jpg"
+  },
+  {
+    "id": "cups_queen",
+    "name_cn": "圣杯王后",
+    "name_en": "Queen of Cups",
+    "number": 13,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "温柔",
+      "直觉",
+      "关爱"
+    ],
+    "meanings": {
+      "upright": "温柔关爱、直觉敏锐、情感丰富、善解人意",
+      "reversed": "情绪失控、过度敏感、依赖他人"
+    },
+    "element": "水",
+    "theme": "温柔",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu13.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_queen.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/qc.jpg"
+  },
+  {
+    "id": "cups_king",
+    "name_cn": "圣杯国王",
+    "name_en": "King of Cups",
+    "number": 14,
+    "arcana": "minor",
+    "suit": "cups",
+    "keywords": [
+      "成熟",
+      "包容",
+      "情感掌控"
+    ],
+    "meanings": {
+      "upright": "情感成熟、包容大度、理性与感性平衡、外交智慧",
+      "reversed": "情绪压抑、操控他人、内心失衡"
+    },
+    "element": "水",
+    "theme": "成熟",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/cu14.jpg",
+    "image_local": "/static/tarot-cards/cups/cups_king.jpg",
+    "image": "./static/tarot-cards/minor-arcana/cups/kc.jpg"
+  },
+  {
+    "id": "swords_ace",
+    "name_cn": "宝剑Ace",
+    "name_en": "Ace of Swords",
+    "number": 1,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "突破",
+      "真相",
+      "力量"
+    ],
+    "meanings": {
+      "upright": "突破性力量、真相揭示、清晰思维、正义之战",
+      "reversed": "思维混乱、力量滥用、缺乏决断"
+    },
+    "element": "风",
+    "theme": "突破",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw01.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_ace.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/1s.jpg"
+  },
+  {
+    "id": "swords_two",
+    "name_cn": "宝剑二",
+    "name_en": "Two of Swords",
+    "number": 2,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "僵局",
+      "抉择",
+      "平衡"
+    ],
+    "meanings": {
+      "upright": "僵持对峙、艰难抉择、维持平衡、蒙蔽双眼",
+      "reversed": "做出决定、打破僵局、信息揭露"
+    },
+    "element": "风",
+    "theme": "僵局",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw02.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_two.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/2s.jpg"
+  },
+  {
+    "id": "swords_three",
+    "name_cn": "宝剑三",
+    "name_en": "Three of Swords",
+    "number": 3,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "心碎",
+      "痛苦",
+      "悲伤"
+    ],
+    "meanings": {
+      "upright": "心碎痛苦、分离悲伤、情感创伤、认清真相",
+      "reversed": "走出痛苦、疗愈创伤、释放悲伤"
+    },
+    "element": "风",
+    "theme": "心碎",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw03.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_three.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/3s.jpg"
+  },
+  {
+    "id": "swords_four",
+    "name_cn": "宝剑四",
+    "name_en": "Four of Swords",
+    "number": 4,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "休息",
+      "冥想",
+      "恢复"
+    ],
+    "meanings": {
+      "upright": "休养生息、冥想静思、恢复能量、暂时退隐",
+      "reversed": "过度劳累、无法休息、急躁行动"
+    },
+    "element": "风",
+    "theme": "休息",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw04.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_four.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/4s.jpg"
+  },
+  {
+    "id": "swords_five",
+    "name_cn": "宝剑五",
+    "name_en": "Five of Swords",
+    "number": 5,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "失败",
+      "冲突",
+      "无意义胜利"
+    ],
+    "meanings": {
+      "upright": "失败挫败、空胜利、冲突争斗、自尊受损",
+      "reversed": "和解可能、弥补过错、放下争端"
+    },
+    "element": "风",
+    "theme": "失败",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw05.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_five.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/5s.jpg"
+  },
+  {
+    "id": "swords_six",
+    "name_cn": "宝剑六",
+    "name_en": "Six of Swords",
+    "number": 6,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "过渡",
+      "旅程",
+      "前行"
+    ],
+    "meanings": {
+      "upright": "平稳过渡、离开困境、寻找出路、旅程前行",
+      "reversed": "困于原地、过渡受阻、不愿放手"
+    },
+    "element": "风",
+    "theme": "过渡",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw06.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_six.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/6s.jpg"
+  },
+  {
+    "id": "swords_seven",
+    "name_cn": "宝剑七",
+    "name_en": "Seven of Swords",
+    "number": 7,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "策略",
+      "欺骗",
+      "逃避"
+    ],
+    "meanings": {
+      "upright": "策略谋划、暗箱操作、巧妙避开、不够坦诚",
+      "reversed": "坦白交代、策略失效、重新面对"
+    },
+    "element": "风",
+    "theme": "策略",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw07.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_seven.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/7s.jpg"
+  },
+  {
+    "id": "swords_eight",
+    "name_cn": "宝剑八",
+    "name_en": "Eight of Swords",
+    "number": 8,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "束缚",
+      "限制",
+      "恐惧"
+    ],
+    "meanings": {
+      "upright": "自我束缚、困境限制、恐惧作祟、视角受限",
+      "reversed": "挣脱束缚、走出困境、突破限制"
+    },
+    "element": "风",
+    "theme": "束缚",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw08.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_eight.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/8s.jpg"
+  },
+  {
+    "id": "swords_nine",
+    "name_cn": "宝剑九",
+    "name_en": "Nine of Swords",
+    "number": 9,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "焦虑",
+      "噩梦",
+      "担忧"
+    ],
+    "meanings": {
+      "upright": "深度焦虑、噩梦缠绕、过度担忧、内心煎熬",
+      "reversed": "焦虑减轻、走出阴霾、面对恐惧"
+    },
+    "element": "风",
+    "theme": "焦虑",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw09.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_nine.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/9s.jpg"
+  },
+  {
+    "id": "swords_ten",
+    "name_cn": "宝剑十",
+    "name_en": "Ten of Swords",
+    "number": 10,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "终结",
+      "低谷",
+      "背叛"
+    ],
+    "meanings": {
+      "upright": "痛苦终结、跌入谷底、背水一战、最坏已过",
+      "reversed": "缓慢恢复、拒绝放手、无法结束"
+    },
+    "element": "风",
+    "theme": "终结",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw10.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_ten.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/10s.jpg"
+  },
+  {
+    "id": "swords_page",
+    "name_cn": "宝剑侍从",
+    "name_en": "Page of Swords",
+    "number": 11,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "好奇",
+      "警觉",
+      "沟通"
+    ],
+    "meanings": {
+      "upright": "好奇求知、敏锐观察、消息灵通、独立思考",
+      "reversed": "八卦多事、言辞刻薄、缺乏行动"
+    },
+    "element": "风",
+    "theme": "好奇",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw11.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_page.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/pc.jpg"
+  },
+  {
+    "id": "swords_knight",
+    "name_cn": "宝剑骑士",
+    "name_en": "Knight of Swords",
+    "number": 12,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "果断",
+      "急速",
+      "逻辑"
+    ],
+    "meanings": {
+      "upright": "果断行动、思维敏捷、直率表达、快速出击",
+      "reversed": "冲动莽撞、缺乏计划、言行伤人"
+    },
+    "element": "风",
+    "theme": "果断",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw12.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_knight.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/nc.jpg"
+  },
+  {
+    "id": "swords_queen",
+    "name_cn": "宝剑王后",
+    "name_en": "Queen of Swords",
+    "number": 13,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "独立",
+      "理性",
+      "清晰"
+    ],
+    "meanings": {
+      "upright": "独立理性、思维清晰、洞察力强、公正直言",
+      "reversed": "冷酷无情、过度理性、刻薄尖酸"
+    },
+    "element": "风",
+    "theme": "独立",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw13.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_queen.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/qc.jpg"
+  },
+  {
+    "id": "swords_king",
+    "name_cn": "宝剑国王",
+    "name_en": "King of Swords",
+    "number": 14,
+    "arcana": "minor",
+    "suit": "swords",
+    "keywords": [
+      "权威",
+      "理智",
+      "判断"
+    ],
+    "meanings": {
+      "upright": "权威理性、公正判断、逻辑清晰、果断决策",
+      "reversed": "滥用权力、冷酷无情、判断失误"
+    },
+    "element": "风",
+    "theme": "权威",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/sw14.jpg",
+    "image_local": "/static/tarot-cards/swords/swords_king.jpg",
+    "image": "./static/tarot-cards/minor-arcana/swords/kc.jpg"
+  },
+  {
+    "id": "pentacles_ace",
+    "name_cn": "星币Ace",
+    "name_en": "Ace of Pentacles",
+    "number": 1,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "财富",
+      "机会",
+      "新开始"
+    ],
+    "meanings": {
+      "upright": "财富机遇、新投资、物质基础、丰盛起点",
+      "reversed": "财务损失、机会错失、计划延期"
+    },
+    "element": "土",
+    "theme": "财富",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe01.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_ace.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/1p.jpg"
+  },
+  {
+    "id": "pentacles_two",
+    "name_cn": "星币二",
+    "name_en": "Two of Pentacles",
+    "number": 2,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "平衡",
+      "调整",
+      "多任务"
+    ],
+    "meanings": {
+      "upright": "灵活平衡、多线并行、调整适应、从容应对",
+      "reversed": "顾此失彼、失去平衡、负担过重"
+    },
+    "element": "土",
+    "theme": "平衡",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe02.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_two.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/2p.jpg"
+  },
+  {
+    "id": "pentacles_three",
+    "name_cn": "星币三",
+    "name_en": "Three of Pentacles",
+    "number": 3,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "合作",
+      "技艺",
+      "学习"
+    ],
+    "meanings": {
+      "upright": "团队合作、精湛技艺、学习提升、共同创造",
+      "reversed": "质量低劣、团队不和、缺乏协作"
+    },
+    "element": "土",
+    "theme": "合作",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe03.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_three.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/3p.jpg"
+  },
+  {
+    "id": "pentacles_four",
+    "name_cn": "星币四",
+    "name_en": "Four of Pentacles",
+    "number": 4,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "守财",
+      "稳定",
+      "控制"
+    ],
+    "meanings": {
+      "upright": "财务稳定、保守理财、安全感、持有资源",
+      "reversed": "过度吝啬、不愿分享、恐惧失去"
+    },
+    "element": "土",
+    "theme": "守财",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe04.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_four.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/4p.jpg"
+  },
+  {
+    "id": "pentacles_five",
+    "name_cn": "星币五",
+    "name_en": "Five of Pentacles",
+    "number": 5,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "匮乏",
+      "困境",
+      "孤立"
+    ],
+    "meanings": {
+      "upright": "物质匮乏、陷入困境、感到孤立、寻求帮助",
+      "reversed": "走出困境、接受援助、困境缓解"
+    },
+    "element": "土",
+    "theme": "匮乏",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe05.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_five.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/5p.jpg"
+  },
+  {
+    "id": "pentacles_six",
+    "name_cn": "星币六",
+    "name_en": "Six of Pentacles",
+    "number": 6,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "慷慨",
+      "分享",
+      "给予"
+    ],
+    "meanings": {
+      "upright": "慷慨给予、公平分配、施与受、慈善帮助",
+      "reversed": "自私贪婪、债务问题、不公平对待"
+    },
+    "element": "土",
+    "theme": "慷慨",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe06.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_six.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/6p.jpg"
+  },
+  {
+    "id": "pentacles_seven",
+    "name_cn": "星币七",
+    "name_en": "Seven of Pentacles",
+    "number": 7,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "耐心",
+      "投资",
+      "等待收获"
+    ],
+    "meanings": {
+      "upright": "耐心等待、投资回报、耕耘收获、长远眼光",
+      "reversed": "急功近利、投资失误、缺乏耐心"
+    },
+    "element": "土",
+    "theme": "耕耘",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe07.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_seven.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/7p.jpg"
+  },
+  {
+    "id": "pentacles_eight",
+    "name_cn": "星币八",
+    "name_en": "Eight of Pentacles",
+    "number": 8,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "精进",
+      "专注",
+      "提升"
+    ],
+    "meanings": {
+      "upright": "精进技艺、专注投入、提升品质、追求卓越",
+      "reversed": "缺乏专注、技艺不精、方向迷失"
+    },
+    "element": "土",
+    "theme": "精进",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe08.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_eight.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/8p.jpg"
+  },
+  {
+    "id": "pentacles_nine",
+    "name_cn": "星币九",
+    "name_en": "Nine of Pentacles",
+    "number": 9,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "奢华",
+      "享受",
+      "富足"
+    ],
+    "meanings": {
+      "upright": "物质富足、享受奢华、财富充盈、品质生活",
+      "reversed": "财务危机、过度挥霍、入不敷出"
+    },
+    "element": "土",
+    "theme": "奢华",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe09.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_nine.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/9p.jpg"
+  },
+  {
+    "id": "pentacles_ten",
+    "name_cn": "星币十",
+    "name_en": "Ten of Pentacles",
+    "number": 10,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "传承",
+      "家族",
+      "繁荣"
+    ],
+    "meanings": {
+      "upright": "家族传承、财富延续、长远规划、世代基业",
+      "reversed": "家族纷争、传承断裂、根基动摇"
+    },
+    "element": "土",
+    "theme": "传承",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe10.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_ten.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/10p.jpg"
+  },
+  {
+    "id": "pentacles_page",
+    "name_cn": "星币侍从",
+    "name_en": "Page of Pentacles",
+    "number": 11,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "学习",
+      "勤奋",
+      "实践"
+    ],
+    "meanings": {
+      "upright": "勤奋学习、脚踏实地、实践积累、新技能",
+      "reversed": "学无所成、好高骛远、缺乏实践"
+    },
+    "element": "土",
+    "theme": "学习",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe11.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_page.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/pc.jpg"
+  },
+  {
+    "id": "pentacles_knight",
+    "name_cn": "星币骑士",
+    "name_en": "Knight of Pentacles",
+    "number": 12,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "稳健",
+      "可靠",
+      "勤恳"
+    ],
+    "meanings": {
+      "upright": "稳健可靠、勤恳务实、值得信赖、稳步前进",
+      "reversed": "工作不稳、缺乏责任、不可信赖"
+    },
+    "element": "土",
+    "theme": "稳健",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe12.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_knight.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/nc.jpg"
+  },
+  {
+    "id": "pentacles_queen",
+    "name_cn": "星币王后",
+    "name_en": "Queen of Pentacles",
+    "number": 13,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "丰饶",
+      "理财",
+      "安全"
+    ],
+    "meanings": {
+      "upright": "丰饶富足、理财有方、生活优渥、物质安全",
+      "reversed": "财务混乱、物质缺乏、管理不善"
+    },
+    "element": "土",
+    "theme": "丰饶",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe13.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_queen.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/qc.jpg"
+  },
+  {
+    "id": "pentacles_king",
+    "name_cn": "星币国王",
+    "name_en": "King of Pentacles",
+    "number": 14,
+    "arcana": "minor",
+    "suit": "pentacles",
+    "keywords": [
+      "繁荣",
+      "商业",
+      "成功"
+    ],
+    "meanings": {
+      "upright": "商业成功、财富繁荣、安全稳定、富甲一方",
+      "reversed": "贪婪腐败、商业失败、财富流失"
+    },
+    "element": "土",
+    "theme": "繁荣",
+    "image_url": "https://www.sacred-texts.com/tarot/pkt/img/pe14.jpg",
+    "image_local": "/static/tarot-cards/pentacles/pentacles_king.jpg",
+    "image": "./static/tarot-cards/minor-arcana/pentacles/kc.jpg"
+  }
+]

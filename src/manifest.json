@@ -1,0 +1,44 @@
+{
+  "name": "tarot-miniprogram",
+  "appid": "your-wx-appid-here",
+  "description": "塔罗牌AI互动微信小程序",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "uniStatistics": {
+    "enable": false
+  },
+  "mp-weixin": {
+    "appid": "your-wx-appid-here",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "enhance": true,
+      "postcss": true,
+      "preloadBackgroundData": false,
+      "minified": true,
+      "newFeature": true,
+      "autoAudits": false,
+      "checkInvalidKey": true,
+      "checkSiteMap": true,
+      "uploadWithSourceMap": true,
+      "babelSetting": {
+        "ignore": [],
+        "disablePlugins": [],
+        "outputPath": ""
+      }
+    },
+    "usingComponents": true,
+    "permission": {
+      "scope.userLocation": {
+        "desc": "用于提供基于位置的服务"
+      }
+    },
+    "requiredPrivateInfos": [],
+    "sitemapLocation": "sitemap.json"
+  },
+  "vueVersion": "v3",
+  "scss": {
+    "data": "@import '@/uni.scss';"
+  }
+}
