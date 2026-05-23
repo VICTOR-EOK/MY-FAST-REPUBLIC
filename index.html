@@ -7,33 +7,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>塔罗秘境</title>
 
-    <!-- 拦截所有 fetch/xhr 请求，用于调试 -->
+    <!-- 拦截 uni.request 看是什么请求在超时 -->
     <script>
     (function() {
-      // 拦截 fetch
+      // 在 uni 对象创建前先存起来
+      window.__UNI_REQ_LOG = [];
+      
+      // 用 Proxy 拦截 uni 对象创建后的 request 方法
+      // 方案：在 script 加载前重写 XMLHttpRequest 和 fetch
       var _fetch = window.fetch;
-      window.fetch = function() {
-        var url = arguments[0];
-        console.log('[FETCH]', url);
-        document.title = 'FETCH:' + String(url).slice(0,30);
+      window.fetch = function(url) {
+        var entry = 'FETCH: ' + String(url).slice(0, 100);
+        window.__UNI_REQ_LOG.push(entry);
+        document.title = entry.slice(0, 40);
+        console.log(entry);
         return _fetch.apply(this, arguments);
       };
-      // 拦截 XHR
-      var _open = XMLHttpRequest.prototype.open;
+      
+      var _xhrOpen = XMLHttpRequest.prototype.open;
       XMLHttpRequest.prototype.open = function(method, url) {
-        console.log('[XHR]', method, url);
-        document.title = 'XHR:' + String(url).slice(0,30);
-        return _open.apply(this, arguments);
+        var entry = 'XHR: ' + method + ' ' + String(url).slice(0, 100);
+        window.__UNI_REQ_LOG.push(entry);
+        document.title = entry.slice(0, 40);
+        console.log(entry);
+        return _xhrOpen.apply(this, arguments);
       };
-      // 错误捕获
-      window.__ERRORS = [];
+      
       window.addEventListener('error', function(e) {
-        window.__ERRORS.push({msg: e.message, file: e.filename});
-        document.title = 'ERR:' + e.message.slice(0,40);
-      });
-      window.addEventListener('unhandledrejection', function(e) {
-        window.__ERRORS.push({type:'rejection', reason: String(e.reason)});
-        document.title = 'REJECT:' + String(e.reason).slice(0,40);
+        window.__UNI_REQ_LOG.push('ERROR: ' + e.message);
+        document.title = 'ERR:' + e.message.slice(0, 30);
       });
     })();
     </script>
