@@ -7,7 +7,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>塔罗秘境</title>
 
-    <script>window.__ERRORS=[];window.addEventListener('error',e=>{window.__ERRORS.push(e.message);document.title='ERR:'+e.message;});window.addEventListener('unhandledrejection',e=>{window.__ERRORS.push('PROMISE:'+String(e.reason));document.title='PROMISE_ERR';});</script>
+    <!-- 拦截所有 fetch/xhr 请求，用于调试 -->
+    <script>
+    (function() {
+      // 拦截 fetch
+      var _fetch = window.fetch;
+      window.fetch = function() {
+        var url = arguments[0];
+        console.log('[FETCH]', url);
+        document.title = 'FETCH:' + String(url).slice(0,30);
+        return _fetch.apply(this, arguments);
+      };
+      // 拦截 XHR
+      var _open = XMLHttpRequest.prototype.open;
+      XMLHttpRequest.prototype.open = function(method, url) {
+        console.log('[XHR]', method, url);
+        document.title = 'XHR:' + String(url).slice(0,30);
+        return _open.apply(this, arguments);
+      };
+      // 错误捕获
+      window.__ERRORS = [];
+      window.addEventListener('error', function(e) {
+        window.__ERRORS.push({msg: e.message, file: e.filename});
+        document.title = 'ERR:' + e.message.slice(0,40);
+      });
+      window.addEventListener('unhandledrejection', function(e) {
+        window.__ERRORS.push({type:'rejection', reason: String(e.reason)});
+        document.title = 'REJECT:' + String(e.reason).slice(0,40);
+      });
+    })();
+    </script>
+
     <script type="module" crossorigin src="/MY-FAST-REPUBLIC/assets/index-DSrB0gEU.js"></script>
     <link rel="stylesheet" crossorigin href="/MY-FAST-REPUBLIC/assets/index-G5lEs2jr.css">
   </head>
